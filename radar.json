@@ -1,4 +1,4 @@
-{
+[{
     "labels": [
         "Module 1", "Module 2", "Module 3", "Module 4", "Module 5","Module 6", "Module 7", "Module 8", "Module 9", "Module 10",
         "Module 11", "Module 12", "Module 13", "Module 14", "Module 15","Module 16", "Module 17", "Module 18", "Module 19", "Module 20",
@@ -12,4 +12,4 @@
             "data": [1.2,3.6,2.6,1.4,4.6,5.7,5,9.8,7.5,2.9,9.8,8.3,6.7,8.1,9.3,5.4,1.3,1.3,5.6,9.3,3.3,5,1.6,9.3,2,0.1,3.1,4.5,3,1.9,2.3,10,9.5,5.3,7.5,6.2,0.5,3.7,2.4,6.1]
         }
     ]
-}
+}]
